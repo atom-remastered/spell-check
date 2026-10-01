@@ -17,7 +17,7 @@
     "husky": "^9.1.7",
     "prettier": "^3.7.4"
   },
-  "repository": "https://github.com/atom/spell-check",
+  "repository": "https://github.com/coltonsr77/spell-check",
   "license": "MIT",
   "engines": {
     "atom": "*"
